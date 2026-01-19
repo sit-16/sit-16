@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Vladimir 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sit-16)](https://github.com/anuraghazra/github-readme-stats)
 <!---Для компактной версии-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sit-16&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
