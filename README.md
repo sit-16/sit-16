@@ -1,7 +1,6 @@
 ## Hi there, I'm Vladimir 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sit-16)](https://github.com/anuraghazra/github-readme-stats)
-<!---Для компактной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sit-16)](https://github.com/anuraghazra/github-readme-stats)
+<p><img src="Cat playing animation.gif" alt="картинка" align="middle">
+
 <!--
 **sit-16/sit-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
