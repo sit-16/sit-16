@@ -1,5 +1,5 @@
 ## Hi there, I'm Vladimir 👋
-<p><img src="Cat playing animation.gif" alt="картинка" align="middle">
+<p><img src="Cat playing animation.gif" width="10%" height="10%" alt="картинка" align="middle" >
 
 <!--
 **sit-16/sit-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
